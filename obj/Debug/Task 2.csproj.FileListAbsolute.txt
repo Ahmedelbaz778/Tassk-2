@@ -1,0 +1,6 @@
+c:\users\baz\documents\visual studio 2015\Projects\Task 2\Task 2\bin\Debug\Task 2.exe.config
+c:\users\baz\documents\visual studio 2015\Projects\Task 2\Task 2\bin\Debug\Task 2.exe
+c:\users\baz\documents\visual studio 2015\Projects\Task 2\Task 2\bin\Debug\Task 2.pdb
+c:\users\baz\documents\visual studio 2015\Projects\Task 2\Task 2\obj\Debug\Task 2.csprojResolveAssemblyReference.cache
+c:\users\baz\documents\visual studio 2015\Projects\Task 2\Task 2\obj\Debug\Task 2.exe
+c:\users\baz\documents\visual studio 2015\Projects\Task 2\Task 2\obj\Debug\Task 2.pdb
